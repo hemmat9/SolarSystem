@@ -13,5 +13,11 @@ public class Main {
         Solana.Heat= "6654548464kj";
         Solana.radius ="4568654546km";
         Solana.temp = "123466486c";
+
+        Planet2 perry = new Planet2();
+        perry.color ="Yellow";
+        perry.size = "4545454545kms";
+
+
     }
 }
