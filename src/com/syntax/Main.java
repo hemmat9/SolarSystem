@@ -8,5 +8,10 @@ public class Main {
         milkyway.sun =1;
         milkyway.Moon =2;
         milkyway.Planets =3;
+
+        SUN Solana = new SUN();
+        Solana.Heat= "6654548464kj";
+        Solana.radius ="4568654546km";
+        Solana.temp = 123466486c;
     }
 }
