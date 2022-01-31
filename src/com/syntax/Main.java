@@ -25,5 +25,12 @@ public class Main {
         narwhal.color ="green";
         narwhal.size = "124546565689km";
 
+        //adding moon1 features
+        Moon1 montero = new Moon1();
+        montero.color ="blue";
+        montero.radius ="2352353";
+        montero.lightIntensity = "4847457875luminous";
+
+        
     }
 }
